@@ -9,6 +9,7 @@ __to let you know, i am not tinkering with any pull requests/issues/anything, th
 ___
 # Install
 ```
+0) Get a release from here: https://github.com/Danc3R4ve/Editor-Tweaks/releases/tag/EdTweaks-Releases
 1) Download the Editor Tweaks Zip file.
 2) Decompress it into an empty folder.
 3) Move the decompressed contents into your Mods/ Folder.
